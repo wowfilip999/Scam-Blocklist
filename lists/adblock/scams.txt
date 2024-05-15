@@ -9,6 +9,9 @@
 ! Syntax: Adblock Plus
 ! Number of entries: 77890
 !
+||https://www.moonclient.xyz/
+||https://moonx.gg
+||https://Moon.xyz
 ||0-usps.com^
 ||0.0.0.0en.cryptonight.net^
 ||0.0.0.0marketing.cryptonight.net^
